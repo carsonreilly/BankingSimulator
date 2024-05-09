@@ -1,0 +1,498 @@
+* * *   SIMULATION BEGINS...
+Depositor Agents			   Withdrawal Agents					       Balance                                                     Transaction Number
+----------------			   -----------------					------------------------					--------------------------
+Agent D2 deposits $42									        (+) Balance: 42								1
+					  Agent W5 withdrawals $32				(-) Balance: 10						                2
+
+* * * Flagged Transaction - Depositor Agent D5 Made A Despoit In Excess of $475.00 USD - See Flagged Transaction Log.
+Agent D5 deposits $475									        (+) Balance: 485							3
+					  Agent W8 withdrawals $34				(-) Balance: 451					                4
+					  Agent W4 withdrawals $13				(-) Balance: 438					                5
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+					  Agent W7 withdrawals $76				(-) Balance: 362					                6
+Agent D4 deposits $277									        (+) Balance: 639							7
+Agent D3 deposits $262									        (+) Balance: 901							8
+					  Agent W3 withdrawals $14				(-) Balance: 887					                9
+					  Agent W9 withdrawals $35				(-) Balance: 852					                10
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W2 withdrawals $40				(-) Balance: 812					                11
+
+* * * Flagged Transaction - Withdrawal Agent W6 Made A Withdrawal In Excess of $83.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W6 Made A Withdrawal In Excess of $83.00 USD - See Flagged Transaction Log.
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $83				(-) Balance: 729					                12
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $93				(-) Balance: 636					                13
+					  Agent W4 withdrawals $65				(-) Balance: 571					                14
+					  Agent W2 withdrawals $46				(-) Balance: 525					                15
+Internal Bank Audit Finds Current Balance To Be $525				Number Of Transactions Since Last Audit 15
+					  Agent W10 withdrawals $28				(-) Balance: 497					                16
+					  Agent W10 withdrawals $23				(-) Balance: 474					                17
+					  Agent W6 withdrawals $68				(-) Balance: 406					                18
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $94.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $94.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $94				(-) Balance: 312					                19
+					  Agent W3 withdrawals $2				(-) Balance: 310					                20
+					  Agent W2 withdrawals $32				(-) Balance: 278					                21
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $93				(-) Balance: 185					                22
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $97.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $97.00 USD - See Flagged Transaction Log.
+					  Agent W8 withdrawals $97				(-) Balance: 88						                23
+					  Agent W9 withdrawals $5				(-) Balance: 83						                24
+					  Agent W3 withdrawals $74				(-) Balance: 9						                25
+
+* * * Flagged Transaction - Depositor Agent D3 Made A Despoit In Excess of $394.00 USD - See Flagged Transaction Log.
+Agent D3 deposits $394									        (+) Balance: 403							26
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W2 withdrawals $19				(-) Balance: 384					                27
+Agent W5 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W5 withdrawals $49				(-) Balance: 335					                28
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W7 withdrawals $56				(-) Balance: 279					                29
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $28				(-) Balance: 251					                30
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $36				(-) Balance: 215					                31
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $47				(-) Balance: 168					                32
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $28				(-) Balance: 140					                33
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W3 withdrawals $30				(-) Balance: 110					                34
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $17				(-) Balance: 93						                35
+Agent D2 deposits $160									        (+) Balance: 253							36
+Agent D4 deposits $67									        (+) Balance: 320							37
+					  Agent W4 withdrawals $65				(-) Balance: 255					                38
+					  Agent W2 withdrawals $61				(-) Balance: 194					                39
+					  Agent W8 withdrawals $35				(-) Balance: 159					                40
+Agent D3 deposits $63									        (+) Balance: 222							41
+					  Agent W6 withdrawals $62				(-) Balance: 160					                42
+					  Agent W10 withdrawals $29				(-) Balance: 131					                43
+					  Agent W6 withdrawals $32				(-) Balance: 99						                44
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+					  Agent W7 withdrawals $76				(-) Balance: 23						                45
+
+* * * Flagged Transaction - Depositor Agent D5 Made A Despoit In Excess of $398.00 USD - See Flagged Transaction Log.
+Agent D5 deposits $398									        (+) Balance: 421							46
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $62				(-) Balance: 359					                47
+					  Agent W9 withdrawals $47				(-) Balance: 312					                48
+					  Agent W2 withdrawals $48				(-) Balance: 264					                49
+					  Agent W5 withdrawals $15				(-) Balance: 249					                50
+					  Agent W3 withdrawals $23				(-) Balance: 226					                51
+					  Agent W4 withdrawals $73				(-) Balance: 153					                52
+					  Agent W10 withdrawals $42				(-) Balance: 111					                53
+					  Agent W8 withdrawals $64				(-) Balance: 47						                54
+					  Agent W3 withdrawals $20				(-) Balance: 27						                55
+
+* * * Flagged Transaction - Depositor Agent D3 Made A Despoit In Excess of $375.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $91.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $91.00 USD - See Flagged Transaction Log.
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W7 withdrawals $91				(-) Balance: 311					                57
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $42				(-) Balance: 269					                58
+Agent D3 deposits $375									        (+) Balance: 402							56
+					  Agent W10 withdrawals $53				(-) Balance: 216					                59
+					  Agent W6 withdrawals $18				(-) Balance: 198					                60
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+					  Agent W9 withdrawals $90				(-) Balance: 108					                61
+					  Agent W4 withdrawals $4				(-) Balance: 104					                62
+					  Agent W2 withdrawals $12				(-) Balance: 92						                63
+					  Agent W5 withdrawals $41				(-) Balance: 51						                64
+					  Agent W10 withdrawals $49				(-) Balance: 2						                65
+Agent D2 deposits $303									        (+) Balance: 305							66
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $13				(-) Balance: 292					                67
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $20				(-) Balance: 272					                68
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $14				(-) Balance: 258					                69
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $33				(-) Balance: 225					                70
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W3 withdrawals $42				(-) Balance: 183					                71
+
+* * * Flagged Transaction - Withdrawal Agent W2 Made A Withdrawal In Excess of $94.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W2 Made A Withdrawal In Excess of $94.00 USD - See Flagged Transaction Log.
+					  Agent W2 withdrawals $94				(-) Balance: 89						                72
+					  Agent W7 withdrawals $49				(-) Balance: 40						                73
+Treasury Bank Audit Finds Current Balance To Be $40				Number of Transactions Since Last Audit 73
+					  Agent W4 withdrawals $1				(-) Balance: 39						                74
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $44				(-) Balance: 155					                76
+Agent D4 deposits $160									        (+) Balance: 199							75
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+					  Agent W3 withdrawals $90				(-) Balance: 65						                77
+					  Agent W8 withdrawals $12				(-) Balance: 53						                78
+					  Agent W2 withdrawals $36				(-) Balance: 17						                79
+
+* * * Flagged Transaction - Depositor Agent D2 Made A Despoit In Excess of $364.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $79				(-) Balance: 302					                81
+Agent D2 deposits $364									        (+) Balance: 381							80
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $38				(-) Balance: 264					                82
+Agent W5 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W5 withdrawals $47				(-) Balance: 217					                83
+					  Agent W4 withdrawals $64				(-) Balance: 153					                84
+					  Agent W5 withdrawals $67				(-) Balance: 86						                85
+					  Agent W6 withdrawals $46				(-) Balance: 40						                86
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W7 withdrawals $61				(-) Balance: 304					                88
+Agent D3 deposits $325									        (+) Balance: 365							87
+					  Agent W5 withdrawals $40				(-) Balance: 264					                89
+					  Agent W5 withdrawals $16				(-) Balance: 248					                90
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $82.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $82.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $82				(-) Balance: 166					                91
+					  Agent W2 withdrawals $61				(-) Balance: 105					                92
+					  Agent W8 withdrawals $34				(-) Balance: 71						                93
+					  Agent W10 withdrawals $35				(-) Balance: 36						                94
+					  Agent W4 withdrawals $4				(-) Balance: 32						                95
+Agent D5 deposits $336									        (+) Balance: 368							96
+					  Agent W9 withdrawals $29				(-) Balance: 339					                97
+					  Agent W4 withdrawals $2				(-) Balance: 337					                98
+					  Agent W3 withdrawals $49				(-) Balance: 288					                99
+					  Agent W6 withdrawals $17				(-) Balance: 271					                100
+Agent D4 deposits $282									        (+) Balance: 553							101
+					  Agent W9 withdrawals $7				(-) Balance: 546					                102
+					  Agent W9 withdrawals $73				(-) Balance: 473					                103
+					  Agent W6 withdrawals $29				(-) Balance: 444					                104
+					  Agent W7 withdrawals $25				(-) Balance: 419					                105
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $98.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $98.00 USD - See Flagged Transaction Log.
+					  Agent W10 withdrawals $98				(-) Balance: 321					                106
+					  Agent W2 withdrawals $2				(-) Balance: 319					                107
+Agent D2 deposits $224									        (+) Balance: 543							108
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+					  Agent W3 withdrawals $93				(-) Balance: 450					                109
+					  Agent W5 withdrawals $74				(-) Balance: 376					                110
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+					  Agent W8 withdrawals $79				(-) Balance: 297					                111
+					  Agent W3 withdrawals $23				(-) Balance: 274					                112
+					  Agent W2 withdrawals $42				(-) Balance: 232					                113
+					  Agent W4 withdrawals $56				(-) Balance: 176					                114
+					  Agent W7 withdrawals $26				(-) Balance: 150					                115
+					  Agent W9 withdrawals $14				(-) Balance: 136					                116
+					  Agent W10 withdrawals $33				(-) Balance: 103					                117
+					  Agent W6 withdrawals $68				(-) Balance: 35						                118
+					  Agent W9 withdrawals $35				(-) Balance: 0						                119
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $20				(-) Balance: 221					                121
+Agent W5 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W5 withdrawals $47				(-) Balance: 174					                122
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W2 withdrawals $68				(-) Balance: 106					                123
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $2				(-) Balance: 104					                124
+Agent D3 deposits $241									        (+) Balance: 241							120
+					  Agent W5 withdrawals $21				(-) Balance: 83						                125
+					  Agent W7 withdrawals $50				(-) Balance: 33						                126
+Internal Bank Audit Finds Current Balance To Be $33				Number Of Transactions Since Last Audit 111
+					  Agent W10 withdrawals $16				(-) Balance: 17						                127
+
+* * * Flagged Transaction - Depositor Agent D5 Made A Despoit In Excess of $481.00 USD - See Flagged Transaction Log.
+Agent D5 deposits $481									        (+) Balance: 498							128
+
+* * * Flagged Transaction - Withdrawal Agent W2 Made A Withdrawal In Excess of $98.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W2 Made A Withdrawal In Excess of $98.00 USD - See Flagged Transaction Log.
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W2 withdrawals $98				(-) Balance: 400					                129
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W3 withdrawals $90				(-) Balance: 310					                130
+Agent W5 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W5 withdrawals $36				(-) Balance: 274					                131
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $41				(-) Balance: 233					                132
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $52				(-) Balance: 181					                133
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $96.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $96.00 USD - See Flagged Transaction Log.
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $96				(-) Balance: 85						                134
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $70				(-) Balance: 15						                135
+Agent D2 deposits $150									        (+) Balance: 165							136
+
+* * * Flagged Transaction - Depositor Agent D2 Made A Despoit In Excess of $481.00 USD - See Flagged Transaction Log.
+Agent D2 deposits $481									        (+) Balance: 646							137
+Agent D4 deposits $111									        (+) Balance: 757							138
+Agent D5 deposits $303									        (+) Balance: 1060							139
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+					  Agent W9 withdrawals $90				(-) Balance: 970					                140
+					  Agent W5 withdrawals $6				(-) Balance: 964					                141
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $90.00 USD - See Flagged Transaction Log.
+					  Agent W7 withdrawals $90				(-) Balance: 874					                142
+					  Agent W2 withdrawals $69				(-) Balance: 805					                143
+					  Agent W4 withdrawals $32				(-) Balance: 773					                144
+					  Agent W10 withdrawals $33				(-) Balance: 740					                145
+					  Agent W6 withdrawals $56				(-) Balance: 684					                146
+					  Agent W3 withdrawals $36				(-) Balance: 648					                147
+					  Agent W3 withdrawals $17				(-) Balance: 631					                148
+					  Agent W6 withdrawals $51				(-) Balance: 580					                149
+					  Agent W8 withdrawals $20				(-) Balance: 560					                150
+					  Agent W2 withdrawals $58				(-) Balance: 502					                151
+					  Agent W4 withdrawals $27				(-) Balance: 475					                152
+					  Agent W3 withdrawals $51				(-) Balance: 424					                153
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $75.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $75.00 USD - See Flagged Transaction Log.
+					  Agent W9 withdrawals $75				(-) Balance: 349					                154
+					  Agent W7 withdrawals $8				(-) Balance: 341					                155
+					  Agent W10 withdrawals $31				(-) Balance: 310					                156
+					  Agent W8 withdrawals $9				(-) Balance: 301					                157
+					  Agent W5 withdrawals $45				(-) Balance: 256					                158
+					  Agent W9 withdrawals $59				(-) Balance: 197					                159
+					  Agent W8 withdrawals $6				(-) Balance: 191					                160
+					  Agent W7 withdrawals $19				(-) Balance: 172					                161
+					  Agent W6 withdrawals $42				(-) Balance: 130					                162
+					  Agent W9 withdrawals $61				(-) Balance: 69						                163
+					  Agent W3 withdrawals $9				(-) Balance: 60						                164
+					  Agent W2 withdrawals $53				(-) Balance: 7						                165
+Agent D3 deposits $50									        (+) Balance: 57								166
+					  Agent W10 withdrawals $39				(-) Balance: 18						                167
+Internal Bank Audit Finds Current Balance To Be $18				Number Of Transactions Since Last Audit 41
+Treasury Bank Audit Finds Current Balance To Be $18				Number of Transactions Since Last Audit 94
+					  Agent W5 withdrawals $9				(-) Balance: 9						                168
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $27				(-) Balance: 115					                170
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W7 withdrawals $51				(-) Balance: 64						                171
+Agent D5 deposits $133									        (+) Balance: 142							169
+					  Agent W4 withdrawals $61				(-) Balance: 3						                172
+Agent D3 deposits $262									        (+) Balance: 265							173
+
+* * * Flagged Transaction - Withdrawal Agent W6 Made A Withdrawal In Excess of $88.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W6 Made A Withdrawal In Excess of $88.00 USD - See Flagged Transaction Log.
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $88				(-) Balance: 177					                174
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W3 withdrawals $30				(-) Balance: 147					                175
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $54				(-) Balance: 93						                176
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $60				(-) Balance: 33						                177
+
+* * * Flagged Transaction - Depositor Agent D2 Made A Despoit In Excess of $390.00 USD - See Flagged Transaction Log.
+Agent D2 deposits $390									        (+) Balance: 423							178
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $71				(-) Balance: 352					                179
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $52				(-) Balance: 300					                180
+					  Agent W10 withdrawals $52				(-) Balance: 248					                181
+					  Agent W6 withdrawals $26				(-) Balance: 222					                182
+					  Agent W2 withdrawals $39				(-) Balance: 183					                183
+					  Agent W10 withdrawals $67				(-) Balance: 116					                184
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $88.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $88.00 USD - See Flagged Transaction Log.
+					  Agent W7 withdrawals $88				(-) Balance: 28						                185
+
+* * * Flagged Transaction - Depositor Agent D4 Made A Despoit In Excess of $410.00 USD - See Flagged Transaction Log.
+Agent D4 deposits $410									        (+) Balance: 438							186
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $60				(-) Balance: 378					                187
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $66				(-) Balance: 312					                188
+					  Agent W8 withdrawals $65				(-) Balance: 247					                189
+					  Agent W5 withdrawals $18				(-) Balance: 229					                190
+					  Agent W9 withdrawals $15				(-) Balance: 214					                191
+					  Agent W2 withdrawals $39				(-) Balance: 175					                192
+					  Agent W4 withdrawals $10				(-) Balance: 165					                193
+					  Agent W5 withdrawals $34				(-) Balance: 131					                194
+					  Agent W6 withdrawals $2				(-) Balance: 129					                195
+					  Agent W3 withdrawals $21				(-) Balance: 108					                196
+					  Agent W7 withdrawals $66				(-) Balance: 42						                197
+Internal Bank Audit Finds Current Balance To Be $42				Number Of Transactions Since Last Audit 30
+					  Agent W5 withdrawals $38				(-) Balance: 4						                198
+Agent D3 deposits $77									        (+) Balance: 81								199
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $76				(-) Balance: 5						                200
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W6 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W6 withdrawals $47				(-) Balance: 170					                202
+Agent D2 deposits $212									        (+) Balance: 217							201
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $58				(-) Balance: 112					                203
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $48				(-) Balance: 64						                204
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W2 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W2 withdrawals $57				(-) Balance: 7						                205
+Agent D5 deposits $350									        (+) Balance: 357							206
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W4 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W4 withdrawals $40				(-) Balance: 317					                207
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W3 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W3 withdrawals $36				(-) Balance: 281					                208
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+Agent W7 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W7 withdrawals $29				(-) Balance: 252					                209
+Agent D2 deposits $156									        (+) Balance: 408							210
+Agent D4 deposits $23									        (+) Balance: 431							211
+Treasury Bank Audit Finds Current Balance To Be $431				Number of Transactions Since Last Audit 44
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W7 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+					  Agent W7 withdrawals $79				(-) Balance: 352					                212
+					  Agent W2 withdrawals $69				(-) Balance: 283					                213
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $97.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $97.00 USD - See Flagged Transaction Log.
+					  Agent W3 withdrawals $97				(-) Balance: 186					                214
+					  Agent W5 withdrawals $28				(-) Balance: 158					                215
+					  Agent W4 withdrawals $44				(-) Balance: 114					                216
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $77.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W9 Made A Withdrawal In Excess of $77.00 USD - See Flagged Transaction Log.
+					  Agent W9 withdrawals $77				(-) Balance: 37						                217
+					  Agent W4 withdrawals $7				(-) Balance: 30						                218
+Agent D5 deposits $314									        (+) Balance: 344							219
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $47				(-) Balance: 297					                220
+Agent W10 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W10 withdrawals $39				(-) Balance: 258					                221
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $81.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W8 Made A Withdrawal In Excess of $81.00 USD - See Flagged Transaction Log.
+Agent W8 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W8 withdrawals $81				(-) Balance: 177					                222
+
+* * * Flagged Transaction - Depositor Agent D4 Made A Despoit In Excess of $400.00 USD - See Flagged Transaction Log.
+Agent D4 deposits $400									        (+) Balance: 577							223
+					  Agent W3 withdrawals $7				(-) Balance: 570					                224
+					  Agent W6 withdrawals $39				(-) Balance: 531					                225
+					  Agent W7 withdrawals $13				(-) Balance: 518					                226
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $83.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W10 Made A Withdrawal In Excess of $83.00 USD - See Flagged Transaction Log.
+					  Agent W10 withdrawals $83				(-) Balance: 435					                227
+					  Agent W2 withdrawals $4				(-) Balance: 431					                228
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $91.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $91.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $91				(-) Balance: 340					                229
+					  Agent W5 withdrawals $62				(-) Balance: 278					                230
+					  Agent W8 withdrawals $38				(-) Balance: 240					                231
+					  Agent W5 withdrawals $56				(-) Balance: 184					                232
+					  Agent W3 withdrawals $34				(-) Balance: 150					                233
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $93.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $93				(-) Balance: 57						                234
+					  Agent W5 withdrawals $36				(-) Balance: 21						                235
+Agent W9 tries to withdraw too much								(*******) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!!
+					  Agent W9 withdrawals $34				(-) Balance: 324					                237
+Agent D4 deposits $337									        (+) Balance: 358							236
+					  Agent W7 withdrawals $4				(-) Balance: 320					                238
+					  Agent W2 withdrawals $63				(-) Balance: 257					                239
+					  Agent W2 withdrawals $46				(-) Balance: 211					                240
+Agent D2 deposits $65									        (+) Balance: 276							241
+					  Agent W3 withdrawals $61				(-) Balance: 215					                242
+Agent D3 deposits $263									        (+) Balance: 478							243
+Agent D5 deposits $132									        (+) Balance: 610							244
+					  Agent W6 withdrawals $6				(-) Balance: 604					                245
+
+* * * Flagged Transaction - Withdrawal Agent W5 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W5 Made A Withdrawal In Excess of $76.00 USD - See Flagged Transaction Log.
+					  Agent W5 withdrawals $76				(-) Balance: 528					                246
+Agent D3 deposits $108									        (+) Balance: 636							247
+					  Agent W5 withdrawals $18				(-) Balance: 618					                248
+Internal Bank Audit Finds Current Balance To Be $571				Number Of Transactions Since Last Audit 52
+					  Agent W10 withdrawals $47				(-) Balance: 571					                249
+					  Agent W10 withdrawals $54				(-) Balance: 517					                250
+					  Agent W4 withdrawals $27				(-) Balance: 490					                251
+					  Agent W2 withdrawals $4				(-) Balance: 486					                252
+					  Agent W6 withdrawals $5				(-) Balance: 481					                253
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $81.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W3 Made A Withdrawal In Excess of $81.00 USD - See Flagged Transaction Log.
+					  Agent W3 withdrawals $81				(-) Balance: 400					                254
+					  Agent W8 withdrawals $14				(-) Balance: 386					                255
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+
+* * * Flagged Transaction - Withdrawal Agent W4 Made A Withdrawal In Excess of $79.00 USD - See Flagged Transaction Log.
+					  Agent W4 withdrawals $79				(-) Balance: 307					                256
